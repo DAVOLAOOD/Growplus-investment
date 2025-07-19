@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GrowPlus Investment</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f2f9ff; margin: 0; padding: 0; color: #333; }
+    header { background-color: #0066cc; color: white; padding: 1em; text-align: center; }
+    table { width: 90%; margin: 20px auto; border-collapse: collapse; }
+    th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
+    th { background-color: #0073e6; color: white; }
+    footer { background-color: #0066cc; color: white; padding: 10px; text-align: center; margin-top: 40px; }
+    .telegram { margin: 20px auto; text-align: center; }
+    .telegram a { background-color: #0088cc; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GrowPlus Investment</h1>
+    <p>Secure. Reliable. Profitable.</p>
+  </header>
+
+  <main>
+    <table>
+      <tr>
+        <th>Plan</th>
+        <th>Min Deposit</th>
+        <th>Daily Profit</th>
+        <th>Daily Bonus</th>
+        <th>Gift Code</th>
+        <th>Duration</th>
+      </tr>
+      <tr><td>Starter</td><td>₦3,000</td><td>₦800</td><td>₦250</td><td>₦100</td><td>7 Days</td></tr>
+      <tr><td>Silver</td><td>₦6,000</td><td>₦1,600</td><td>₦500</td><td>₦200</td><td>10 Days</td></tr>
+      <tr><td>Gold</td><td>₦12,000</td><td>₦3,200</td><td>₦1,000</td><td>₦400</td><td>10 Days</td></tr>
+      <tr><td>Diamond</td><td>₦24,000</td><td>₦6,400</td><td>₦2,000</td><td>₦800</td><td>10 Days</td></tr>
+      <tr><td>VIP 1</td><td>₦48,000</td><td>₦12,800</td><td>₦1,000</td><td>₦1,600</td><td>15 Days</td></tr>
+      <tr><td>VIP 2</td><td>₦96,000</td><td>₦25,600</td><td>₦1,000</td><td>₦3,200</td><td>15 Days</td></tr>
+      <tr><td>VIP 3</td><td>₦192,000</td><td>₦51,200</td><td>₦1,000</td><td>₦6,400</td><td>15 Days</td></tr>
+    </table>
+
+    <div class="telegram">
+      <p>Join our Telegram group & channel for daily gift codes and support</p>
+      <a href="#">Join Telegram</a>
+    </div>
+
+    <div class="telegram">
+      <p>Referral Bonus: <strong>30%</strong> of the plan your invitee pays for</p>
+      <p>Withdrawal Charges: <strong>10%</strong> on each withdrawal</p>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 GrowPlus Investment. All rights reserved.
+  </footer>
+</body>
+</html>
